@@ -1,5 +1,7 @@
 ### Auto EDA package
 
+PyPi: https://pypi.org/project/data-analyzer/
+
 ``
 pip install data-analyzer
 ``
